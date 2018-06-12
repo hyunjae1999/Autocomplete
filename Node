@@ -5,7 +5,6 @@ import java.util.Map;
  * Node in a general trie, each representing a character. Each node will keep
  * track of additional valid state if it is the last character of a word.
  * 
- * @author Austin Lu
  *
  */
 public class Node implements Comparable<Node> {
